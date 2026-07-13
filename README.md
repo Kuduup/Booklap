@@ -81,6 +81,6 @@ flutter run
 
 ## 👨‍💻 Dibuat Oleh
 
-**Imron Rosadi**
+**Suryadi**
 
 Proyek Akhir Mata Kuliah **Mobile Programming** Semester 4.
